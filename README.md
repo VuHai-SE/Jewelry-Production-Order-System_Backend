@@ -1,6 +1,6 @@
 # Jewelry Production Order System
-## Subject: PRN221_GroupProject
 **Phần mềm quản lý đặt gia công trang sức của khách hàng cho công ty gia công trang sức**
+**Subject: PRN221_GroupProject**
 
 ## Mô tả
 - Trang chủ giới thiệu công ty, bộ sưu tập trang sức, mẫu thiết kế, blog chia sẻ, ...
